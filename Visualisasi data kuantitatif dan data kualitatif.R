@@ -1,5 +1,4 @@
-#Laporan Praktikum 1 Komputasi Statistika
-#Analisis deskriptif dataset prestige
+
 #install.packages("carData")
 library(carData)
 
