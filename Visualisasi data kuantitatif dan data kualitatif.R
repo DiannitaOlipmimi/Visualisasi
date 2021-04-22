@@ -1,7 +1,7 @@
-## VISUALISASI DATA KUANTITATIF DAN KUALITATIF ##
+## VISUALISASI DATA KUANTITATIF DAN KUALITATIF 
 mencari perbedaan visualisasi data kuantitatif dan kualitatif serta statistik deskriptif
 
-## DEFINISI ##
+## DEFINISI 
 ---
 data kuantitatif adalah data yang berwujud angka atau bilangan. Data
 kuantitatif biasanya dijadikan sebagai bahan dasar bagi setiap permasalahan yang
@@ -19,7 +19,6 @@ dan lain lain. Sedangkan ukuran penyebaran adalah range, ragam.
 ---
 Data yang digunakan adalah data Prestige dan data kanker sel darah
 dari data tersebut digunakan visualisasi untuk menggambarkan data kualitatif dan kuantitatif didalamnya
-
 ---
 
 
