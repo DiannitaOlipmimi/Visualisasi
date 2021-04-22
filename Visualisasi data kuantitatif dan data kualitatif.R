@@ -1,10 +1,35 @@
+## VISUALISASI DATA KUANTITATIF DAN KUALITATIF ##
+mencari perbedaan visualisasi data kuantitatif dan kualitatif serta statistik deskriptif
+
+## DEFINISI ##
+---
+data kuantitatif adalah data yang berwujud angka atau bilangan. Data
+kuantitatif biasanya dijadikan sebagai bahan dasar bagi setiap permasalahan yang
+bersifat statistik. sedangkan data kualitatif adalah data yang berbentuk selain angka. Data kualitatif
+dapat dikumpulkan dengan cara wawancara, analisis dokumen, observasi,
+pemotretan gambar atau perekaman video.
+
+Statistik deskriptif adalah peringaksan data.
+Peringakasan data ini dapat dilakukan dengan 2 ukuran yaitu, ukuran pemusatan
+dan penyebaran. Ukuran pemusatan antara lain, median, modus, kuartil, rata-rata,
+dan lain lain. Sedangkan ukuran penyebaran adalah range, ragam.
+
+---
+## PERSOALAN DAN DATA ##
+---
+Data yang digunakan adalah data Prestige dan data kanker sel darah
+dari data tersebut digunakan visualisasi untuk menggambarkan data kualitatif dan kuantitatif didalamnya
+
+---
+
 
 #install.packages("carData")
 library(carData)
 
-View(Prestige)
-?Prestige
+View(Prestige) #melihat data
+?Prestige #keterangan data
 
+#tipe dan statistik deskriptif
 str(Prestige)
 summary(Prestige)
 
