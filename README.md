@@ -1,1 +1,2 @@
-## Visualisasi data kuantitatif dan kualitatif dengan R STudio
+## Visualisasi R
+Visualisasi data kuantitatif dan kualitatif dengan R STudio
